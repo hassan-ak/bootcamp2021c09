@@ -14,7 +14,7 @@ Serverless is the way we just provide the code and all the maintainace to be don
 - [Hello Lambda](https://github.com/hassan-ak/bootcamp2021c08/tree/main/step01_hello_lambda)
 - [Hello Website](./step02_hello_website)
 
-## Class 8 Videos:
+## Class 9 Videos:
 
 - [English on YouTube]()
 - [English on Facebook](https://www.facebook.com/524892375/videos/271984638085194/)
