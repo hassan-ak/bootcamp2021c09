@@ -10,7 +10,6 @@ Serverless is the way we just provide the code and all the maintainace to be don
 
 ## Sections
 
-- [Hello CDK](https://github.com/hassan-ak/bootcamp2021c08/tree/main/step00_hello_cdk)
 - [Hello Lambda](https://github.com/hassan-ak/bootcamp2021c08/tree/main/step01_hello_lambda)
 - [Hello Website](./step02_hello_website)
 
