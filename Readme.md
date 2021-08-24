@@ -1,4 +1,4 @@
-# AWS Hello Website
+# AWS Lambda and CDN Website Deployment using CDK
 
 ## Class Notes
 
