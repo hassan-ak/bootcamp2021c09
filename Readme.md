@@ -1,19 +1,21 @@
-# AWS Lambda and CDN Website Deployment using CDK
+# bootcamp2021c09 -AWS Lambda and CDN Website Deployment using CDK
 
-## Class Notes
+## Lambda and CDN Website Deployment
+
+### Class Notes
 
 Serverless is the way we just provide the code and all the maintainace to be done by the cloud provider. It doesn't mean we don't have servers but it means we don't manage the servers.
 
-## Reading Material
+### Reading Material
 
 - [step02_hello_website](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step02_hello_website)
 
-## Sections
+### Sections
 
 - [Hello Lambda](https://github.com/hassan-ak/bootcamp2021c08/tree/main/step01_hello_lambda)
 - [Hello Website](./step02_hello_website)
 
-## Class 9 Videos:
+### Class 9 Videos:
 
 - [English on YouTube](https://www.youtube.com/watch?v=RN5RrPWBrYc&ab_channel=PanacloudCloudAI%2CIoT%2CandBlockchainCourse)
 - [English on Facebook](https://www.facebook.com/524892375/videos/271984638085194/)
