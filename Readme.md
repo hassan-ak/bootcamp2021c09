@@ -17,7 +17,7 @@ Serverless is the way we just provide the code and all the maintainace to be don
 
 ### Class 9 Videos:
 
-- [English on YouTube](https://www.youtube.com/watch?v=RN5RrPWBrYc&ab_channel=PanacloudCloudAI%2CIoT%2CandBlockchainCourse)
-- [English on Facebook](https://www.facebook.com/524892375/videos/271984638085194/)
-- [Urdu on YouTube](https://www.youtube.com/watch?v=KJ_MZ85ALiA&ab_channel=PanacloudUrduCloudAICourse)
-- [Urdu on Facebook](https://www.facebook.com/100003743983275/videos/159330759673241/)
+- [English YouTube](https://www.youtube.com/watch?v=RN5RrPWBrYc&ab_channel=PanacloudCloudAI%2CIoT%2CandBlockchainCourse)
+- [English Facebook](https://www.facebook.com/524892375/videos/271984638085194/)
+- [Urdu YouTube](https://www.youtube.com/watch?v=KJ_MZ85ALiA&ab_channel=PanacloudUrduCloudAICourse)
+- [Urdu Facebook](https://www.facebook.com/100003743983275/videos/159330759673241/)
