@@ -3,6 +3,12 @@
 ## Lambda and CDN Website Deployment
 
 ### Class Notes
+- Lambda Functions
+  - Creation
+  - Deployment
+  - Test locally
+- API gateway
+- Deploy websites
 
 Serverless is the way we just provide the code and all the maintainace to be done by the cloud provider. It doesn't mean we don't have servers but it means we don't manage the servers.
 
