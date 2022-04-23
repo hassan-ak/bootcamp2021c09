@@ -1,4 +1,4 @@
-# bootcamp2021c09 -AWS Lambda and CDN Website Deployment using CDK
+# bootcamp2021c09 - Introduction to Serverless and Cloud Computing using CDK - AWS CDK, Lambda and CDN Website Deployment - Lambda and CDN Website Deployment 
 
 ## Lambda and CDN Website Deployment
 
@@ -15,7 +15,7 @@ Serverless is the way we just provide the code and all the maintainace to be don
 - [Hello Lambda](https://github.com/hassan-ak/bootcamp2021c08/tree/main/step01_hello_lambda)
 - [Hello Website](./step02_hello_website)
 
-### Class 9 Videos:
+### Class 9 Videos: Lambda and CDN Website Deployment
 
 - [English YouTube](https://www.youtube.com/watch?v=RN5RrPWBrYc&ab_channel=PanacloudCloudAI%2CIoT%2CandBlockchainCourse)
 - [English Facebook](https://www.facebook.com/524892375/videos/271984638085194/)
