@@ -1,8 +1,6 @@
 # bootcamp2021c09 - Introduction to Serverless and Cloud Computing using CDK - AWS CDK, Lambda and CDN Website Deployment - Lambda and CDN Website Deployment 
 
 ## Lambda and CDN Website Deployment
-
-### Class Notes
 - Lambda Functions
   - Creation
   - Deployment
@@ -10,6 +8,7 @@
 - API gateway
 - Deploy websites
 
+### Class Notes
 Serverless is the way we just provide the code and all the maintainace to be done by the cloud provider. It doesn't mean we don't have servers but it means we don't manage the servers.
 
 ### Reading Material
